@@ -1,0 +1,3 @@
+#!/bin/bash
+
+ncftpput -DD -u <username> -p <password> <QNAP_host_IP> images/ /home/pi/Desktop/images/*
